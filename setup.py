@@ -12,7 +12,7 @@ setup(
         "pandas",
         "Cython",
         "piq==0.7.0",
-        "joblib==0.14.0",
+        "joblib==1.2.0",
         "albumentations==0.4.3",
         "lmdb",
         "clip @ git+https://github.com/openai/CLIP.git",
